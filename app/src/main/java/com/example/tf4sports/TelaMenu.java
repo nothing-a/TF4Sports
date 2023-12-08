@@ -24,7 +24,7 @@ public class TelaMenu extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_tela_camera);
+        setContentView(R.layout.fragment_home);
     }
 
     @Override
